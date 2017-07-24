@@ -77,6 +77,7 @@
 - [Planck](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
 - [shadow-build](https://github.com/thheller/shadow-build) – A ClojureScript build library capable of compiling multiple output files.
+- [shadow-cljs](https://github.com/thheller/shadow-cljs) - A ClojureScript build tool focused on ClojureScript.
 
 
 ### Document Object Model
